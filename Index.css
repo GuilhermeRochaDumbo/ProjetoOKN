@@ -1,22 +1,22 @@
 @font-face{
     font-family: 'TitilliumWeb-SemiBold';
-    src: url(../ProjetoOKN/Fonts/TitilliumWeb-SemiBold.ttf)
+    src: url("../ProjetoOKN/Fonts/TitilliumWeb-SemiBold.ttf")
 }
 @font-face{
     font-family: 'TitilliumWeb-Light';
-    src: url(../ProjetoOKN/Fonts/TitilliumWeb-Light.ttf)
+    src: url("../ProjetoOKN/Fonts/TitilliumWeb-Light.ttf")
 }
 @font-face{
     font-family: 'TitilliumWeb-ExtraLight';
-    src: url(../ProjetoOKN/Fonts/TitilliumWeb-ExtraLight.ttf)
+    src: url("../ProjetoOKN/Fonts/TitilliumWeb-ExtraLight.ttf")
 }
 @font-face{
     font-family: 'TitilliumWeb-Bold';
-    src: url(../ProjetoOKN/Fonts/TitilliumWeb-Bold.ttf)
+    src: url("../ProjetoOKN/Fonts/TitilliumWeb-Bold.ttf")
 }
 @font-face{
     font-family: 'TitilliumWeb-Regular';
-    src: url(../ProjetoOKN/Fonts/TitilliumWeb-Regular.ttf)
+    src: url("../ProjetoOKN/Fonts/TitilliumWeb-Regular.ttf")
 }
 /* ------------------------------------------- CLASSES ------------------------------------------------------ */
 .body{
